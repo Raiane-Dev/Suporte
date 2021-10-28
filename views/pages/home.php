@@ -20,8 +20,8 @@
             $mail->isSMTP();
             $mail->Host = 'smtp.gmail.com';
             $mail->SMTPAuth = true;
-            $mail->Username = 'raiane.dev@gmail.com';
-            $mail->Password = 'gaivabeach';
+            $mail->Username = 'MEU EMAIL';
+            $mail->Password = 'MINHA SENHA';
             $mail->SMTPSecure = 'ssl';
             $mail->Port = 465;
 
